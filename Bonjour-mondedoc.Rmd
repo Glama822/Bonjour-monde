@@ -1,0 +1,11 @@
+---
+title: "Premier Commit"
+author: "GLJ"
+date: "2024-12-06"
+output: html_document
+---
+
+```{r}
+print("Hello World !")
+```
+
